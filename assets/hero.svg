@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="320" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&amp;display=swap');
+    
+    .font-outfit {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    
+    .glow-bg {
+      filter: blur(80px);
+      opacity: 0.12;
+    }
+    
+    .grid-mesh {
+      stroke: rgba(255, 255, 255, 0.02);
+      stroke-width: 1;
+    }
+
+    /* Typing Text Keyframes */
+    @keyframes fade-1 {
+      0%, 20% { opacity: 1; }
+      25%, 95% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes fade-2 {
+      0%, 20% { opacity: 0; }
+      25%, 45% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes fade-3 {
+      0%, 45% { opacity: 0; }
+      50%, 70% { opacity: 1; }
+      75%, 100% { opacity: 0; }
+    }
+    @keyframes fade-4 {
+      0%, 70% { opacity: 0; }
+      75%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    .role-1 { animation: fade-1 16s infinite; }
+    .role-2 { animation: fade-2 16s infinite; }
+    .role-3 { animation: fade-3 16s infinite; }
+    .role-4 { animation: fade-4 16s infinite; }
+    .cursor { animation: blink 1s infinite; fill: #06b6d4; font-weight: bold; }
+
+    /* Floating illustration nodes */
+    @keyframes float-node {
+      0%, 100% { transform: translateY(0px) scale(1); }
+      50% { transform: translateY(-8px) scale(1.05); }
+    }
+    .floating-art {
+      animation: float-node 6s infinite ease-in-out;
+      transform-origin: 640px 140px;
+    }
+    
+    .glass-card {
+      fill: #0D1527;
+      fill-opacity: 0.75;
+      stroke: url(#card-border-grad);
+      stroke-width: 1.5;
+    }
+  </style>
+
+  <!-- Global background -->
+  <rect width="800" height="320" fill="#0B1220" />
+
+  <!-- Ambient Glows -->
+  <circle cx="200" cy="160" r="160" fill="#3b82f6" class="glow-bg" />
+  <circle cx="600" cy="140" r="140" fill="#8b5cf6" class="glow-bg" />
+  <circle cx="400" cy="280" r="100" fill="#06b6d4" class="glow-bg" />
+
+  <!-- Mesh Grid -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid-mesh" />
+    </pattern>
+    
+    <!-- Gradient for Card Border -->
+    <linearGradient id="card-border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.4" />
+    </linearGradient>
+    
+    <!-- Gradient for Text -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    
+    <!-- Gradient for Subtitle -->
+    <linearGradient id="sub-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="320" fill="url(#grid)" />
+
+  <!-- Left Side: Hero Info -->
+  <g class="font-outfit" transform="translate(50, 0)">
+    <!-- Small Tagline -->
+    <text x="0" y="90" fill="#3b82f6" font-size="12" font-weight="600" letter-spacing="3">HELLO WORLD, I'M</text>
+    
+    <!-- Large Name -->
+    <text x="0" y="140" fill="url(#text-grad)" font-size="42" font-weight="800" letter-spacing="-1">Devansh Maheshwari</text>
+    
+    <!-- Animated typing subtitle -->
+    <!-- We stack the texts on the same coordinates (x=0, y=185) and crossfade them -->
+    <g font-size="20" font-weight="600" fill="url(#sub-grad)">
+      <text x="0" y="185" class="role-1">AI/ML Developer<tspan class="cursor">|</tspan></text>
+      <text x="0" y="185" class="role-2">Java Developer<tspan class="cursor">|</tspan></text>
+      <text x="0" y="185" class="role-3">Competitive Programmer<tspan class="cursor">|</tspan></text>
+      <text x="0" y="185" class="role-4">Open Source Contributor<tspan class="cursor">|</tspan></text>
+    </g>
+
+    <!-- Short bio context -->
+    <text x="0" y="225" fill="#94a3b8" font-size="14" font-weight="400" width="350">
+      Crafting elegant code solutions and training intelligent models.
+    </text>
+    <text x="0" y="245" fill="#94a3b8" font-size="14" font-weight="400">
+      Bridging engineering excellence and machine intelligence.
+    </text>
+  </g>
+
+  <!-- Right Side: Glassmorphic Status Card & Neural Network Nodes -->
+  <g transform="translate(480, 45)" class="font-outfit">
+    <!-- Card Frame -->
+    <rect width="270" height="230" rx="16" class="glass-card" />
+    
+    <!-- Abstract Networking Graphic (acting as Developer Illustration) -->
+    <g class="floating-art" opacity="0.6">
+      <!-- Connection lines -->
+      <line x1="70" y1="50" x2="135" y2="35" stroke="#3b82f6" stroke-width="1" stroke-dasharray="2 2" />
+      <line x1="135" y1="35" x2="200" y2="70" stroke="#8b5cf6" stroke-width="1" />
+      <line x1="200" y1="70" x2="150" y2="105" stroke="#06b6d4" stroke-width="1.2" />
+      <line x1="150" y1="105" x2="70" y2="50" stroke="#3b82f6" stroke-width="1" />
+      <line x1="135" y1="35" x2="150" y2="105" stroke="#06b6d4" stroke-width="1" stroke-dasharray="3 1" />
+      
+      <!-- Nodes -->
+      <circle cx="70" cy="50" r="5" fill="#3b82f6" />
+      <circle cx="135" cy="35" r="4" fill="#06b6d4" />
+      <circle cx="200" cy="70" r="6" fill="#8b5cf6" />
+      <circle cx="150" cy="105" r="5.5" fill="#06b6d4" />
+    </g>
+
+    <!-- Card Info Content -->
+    <g transform="translate(24, 40)" fill="#ffffff" font-size="14">
+      <!-- Title -->
+      <text x="0" y="0" font-weight="800" fill="url(#text-grad)" font-size="16" letter-spacing="1">DEVELOPER PROFILE</text>
+      
+      <!-- Details -->
+      <g transform="translate(0, 25)" font-size="13" font-weight="400" fill="#e2e8f0">
+        <!-- Education -->
+        <text x="0" y="15">🎓 Education:</text>
+        <text x="18" y="32" font-weight="600" fill="#ffffff">B.Tech CSE</text>
+        <text x="18" y="47" font-weight="300" fill="#94a3b8">GLA University</text>
+
+        <!-- Focus -->
+        <text x="0" y="80">🚀 Current Focus:</text>
+        <text x="18" y="97" font-weight="600" fill="#06b6d4">AI/ML &amp; Advanced DSA</text>
+        
+        <!-- Location -->
+        <text x="0" y="130">📍 Location:</text>
+        <text x="18" y="147" font-weight="600" fill="#ffffff">India</text>
+      </g>
+    </g>
+  </g>
+</svg>

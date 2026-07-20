@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 180" width="100%" height="180" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700;800&amp;display=swap');
+    .font-outfit {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    .card-bg {
+      fill: #0D1527;
+      fill-opacity: 0.8;
+      stroke: url(#border-grad);
+      stroke-width: 1.5;
+    }
+    .card-title {
+      font-size: 16px;
+      font-weight: 800;
+      fill: url(#text-grad);
+      letter-spacing: 1.5;
+    }
+    .item-title {
+      font-size: 13px;
+      font-weight: 700;
+      fill: #ffffff;
+    }
+    .item-desc {
+      font-size: 12px;
+      font-weight: 400;
+      fill: #94a3b8;
+    }
+    .icon {
+      fill: #3b82f6;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#1e293b" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.4" />
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="1" y="1" width="778" height="178" rx="16" class="card-bg" />
+
+  <!-- Content Group -->
+  <g class="font-outfit" transform="translate(32, 28)">
+    <!-- Header Title -->
+    <g transform="translate(0, 0)">
+      <path d="M 0 6 a 5 5 0 0 1 10 0 v 4 a 1 1 0 0 1 -1 1 h -8 a 1 1 0 0 1 -1 -1 z M 2 11 v 2 h 6 v -2 z M 0 14 h 10 v 1 h -10 z" fill="#06b6d4" />
+      <text x="22" y="12" class="card-title">ACHIEVEMENTS &amp; MILESTONES</text>
+    </g>
+
+    <!-- Grid of 4 Items (2x2 Layout) -->
+    <!-- Column 1, Row 1 -->
+    <g transform="translate(0, 36)">
+      <circle cx="10" cy="15" r="4" fill="#3b82f6" />
+      <text x="24" y="14" class="item-title">🏆 Hackathons &amp; Competitions</text>
+      <text x="24" y="32" class="item-desc">Active participant &amp; developer in university-level &amp; national hackathons.</text>
+    </g>
+
+    <!-- Column 2, Row 1 -->
+    <g transform="translate(380, 36)">
+      <circle cx="10" cy="15" r="4" fill="#06b6d4" />
+      <text x="24" y="14" class="item-title">🌐 Open Source Contribution</text>
+      <text x="24" y="32" class="item-desc">Contributed tools to GitHub Java ecosystems &amp; collaborative AI setups.</text>
+    </g>
+
+    <!-- Column 1, Row 2 -->
+    <g transform="translate(0, 92)">
+      <circle cx="10" cy="15" r="4" fill="#8b5cf6" />
+      <text x="24" y="14" class="item-title">🤖 Intelligent AI Systems</text>
+      <text x="24" y="32" class="item-desc">Engineered Crop Foliage diagnostics model and Audio deepfake detector.</text>
+    </g>
+
+    <!-- Column 2, Row 2 -->
+    <g transform="translate(380, 92)">
+      <circle cx="10" cy="15" r="4" fill="#3b82f6" />
+      <text x="24" y="14" class="item-title">🏅 Technical Certifications</text>
+      <text x="24" y="32" class="item-desc">Certified in Advanced DSA architectures, ML pipelines, and Cloud structures.</text>
+    </g>
+  </g>
+</svg>

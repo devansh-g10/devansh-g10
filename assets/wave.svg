@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100" fill="none">
+  <style>
+    .wave-path {
+      fill-opacity: 0.25;
+    }
+    
+    @keyframes wave-move-1 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-400px); }
+    }
+    @keyframes wave-move-2 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-400px); }
+    }
+    @keyframes wave-move-3 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-400px); }
+    }
+
+    .w1 {
+      animation: wave-move-1 14s infinite linear;
+      fill: url(#wave-cyan-grad);
+      opacity: 0.6;
+    }
+    .w2 {
+      animation: wave-move-2 18s infinite linear;
+      fill: url(#wave-purple-grad);
+      opacity: 0.7;
+    }
+    .w3 {
+      animation: wave-move-3 22s infinite linear;
+      fill: url(#wave-blue-grad);
+      opacity: 0.8;
+    }
+  </style>
+
+  <defs>
+    <!-- Cyan Wave Gradient -->
+    <linearGradient id="wave-cyan-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0" />
+    </linearGradient>
+    
+    <!-- Purple Wave Gradient -->
+    <linearGradient id="wave-purple-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Blue Wave Gradient -->
+    <linearGradient id="wave-blue-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Dark container background to match README -->
+  <rect width="800" height="100" fill="#0B1220" />
+
+  <!-- Wave 1 (Back, Cyan) -->
+  <!-- Two cycles of 400px repeating: total 1600px path to slide seamlessly -->
+  <g>
+    <path class="wave-path w1" d="M 0,55 Q 100,40 200,55 T 400,55 T 600,55 T 800,55 T 1000,55 T 1200,55 T 1400,55 T 1600,55 L 1600,100 L 0,100 Z" />
+  </g>
+
+  <!-- Wave 2 (Middle, Purple) with small phase offset -->
+  <g transform="translate(-120, 0)">
+    <path class="wave-path w2" d="M 0,60 Q 100,48 200,60 T 400,60 T 600,60 T 800,60 T 1000,60 T 1200,60 T 1400,60 T 1600,60 L 1600,100 L 0,100 Z" />
+  </g>
+
+  <!-- Wave 3 (Front, Blue) with larger phase offset and higher height -->
+  <g transform="translate(-250, 0)">
+    <path class="wave-path w3" d="M 0,50 Q 100,32 200,50 T 400,50 T 600,50 T 800,50 T 1000,50 T 1200,50 T 1400,50 T 1600,50 L 1600,100 L 0,100 Z" />
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="120" fill="none">
+  <style>
+    .particle {
+      fill: #06b6d4;
+      filter: drop-shadow(0 0 4px #3b82f6);
+      opacity: 0.2;
+    }
+    
+    @keyframes float-slow-1 {
+      0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.15; }
+      50% { transform: translate(10px, -20px) scale(1.3); opacity: 0.4; }
+    }
+    @keyframes float-slow-2 {
+      0%, 100% { transform: translate(0, 0) scale(1.2); opacity: 0.3; }
+      50% { transform: translate(-15px, -15px) scale(0.8); opacity: 0.1; }
+    }
+    @keyframes float-slow-3 {
+      0%, 100% { transform: translate(0, 0) scale(0.9); opacity: 0.2; }
+      50% { transform: translate(8px, -25px) scale(1.4); opacity: 0.5; }
+    }
+
+    .p1 { animation: float-slow-1 12s infinite ease-in-out; transform-origin: 100px 80px; }
+    .p2 { animation: float-slow-2 16s infinite ease-in-out; transform-origin: 320px 40px; }
+    .p3 { animation: float-slow-3 10s infinite ease-in-out; transform-origin: 450px 90px; }
+    .p4 { animation: float-slow-1 14s infinite ease-in-out; transform-origin: 620px 30px; }
+    .p5 { animation: float-slow-2 18s infinite ease-in-out; transform-origin: 750px 70px; }
+  </style>
+
+  <!-- Dark Background -->
+  <rect width="800" height="120" fill="#0B1220" />
+
+  <!-- Particles -->
+  <circle cx="100" cy="80" r="2.5" class="particle p1" fill="#3b82f6" />
+  <circle cx="210" cy="30" r="1.5" class="particle p2" fill="#8b5cf6" />
+  <circle cx="320" cy="40" r="3" class="particle p2" />
+  <circle cx="450" cy="90" r="2" class="particle p3" fill="#3b82f6" />
+  <circle cx="530" cy="60" r="1.5" class="particle p1" fill="#8b5cf6" />
+  <circle cx="620" cy="30" r="2.5" class="particle p4" />
+  <circle cx="690" cy="85" r="2" class="particle p3" fill="#3b82f6" />
+  <circle cx="750" cy="70" r="3" class="particle p5" fill="#8b5cf6" />
+  <circle cx="80" cy="20" r="1.5" class="particle p4" />
+
+  <!-- Soft gradient borders -->
+  <rect x="0.5" y="0.5" width="799" height="119" rx="8" stroke="url(#borderGrad)" stroke-opacity="0.15" fill="none" />
+
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+</svg>
