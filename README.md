@@ -115,12 +115,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh-g10&show_icons=true&theme=dark&bg_color=0D1527&title_color=3b82f6&text_color=94a3b8&icon_color=06b6d4&border_color=3b82f6&border_radius=12&hide_border=false" alt="Devansh's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=devansh-g10&theme=dark&background=0D1527&ring=3b82f6&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=06b6d4&border=3b82f6&border_radius=12&hide_border=false" alt="Devansh's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh-g10&show_icons=true&theme=dark&bg_color=111111&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=222222&border_radius=12&hide_border=false" alt="Devansh's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=devansh-g10&theme=dark&background=111111&ring=0070F3&fire=7928CA&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=00E5FF&border=222222&border_radius=12&hide_border=false" alt="Devansh's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-g10&layout=compact&theme=dark&bg_color=0D1527&title_color=3b82f6&text_color=94a3b8&icon_color=06b6d4&border_color=3b82f6&border_radius=12&hide_border=false" alt="Devansh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-g10&layout=compact&theme=dark&bg_color=111111&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=222222&border_radius=12&hide_border=false" alt="Devansh's Top Languages" />
 </p>
 
 <h3 align="center">🐍 Contribution Activity</h3>
@@ -135,7 +135,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devansh-g10&color=06b6d4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=devansh-g10&color=0070F3&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 <!-- Footer Wave & Sign-off -->
