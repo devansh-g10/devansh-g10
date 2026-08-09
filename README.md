@@ -1,149 +1,154 @@
-<!-- Premium Developer Landing Page README -->
-<!-- Designed to emulate the design language of Apple, Vercel, Stripe, and Linear -->
+<div align="center">
 
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Devansh Maheshwari - Elite Developer Profile" />
-</p>
-
-<!-- Social Connect Pills -->
-<p align="center">
-  <a href="https://github.com/devansh-g10" target="_blank" rel="noopener noreferrer">
-    <img src="assets/btn-github.svg" width="130" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/devansh-maheshwari-59b46a219" target="_blank" rel="noopener noreferrer">
-    <img src="assets/btn-linkedin.svg" width="130" alt="LinkedIn" />
-  </a>
-  <a href="mailto:devanshmaheshwari3011@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/btn-email.svg" width="130" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/devansh-g10" target="_blank" rel="noopener noreferrer">
-    <img src="assets/btn-leetcode.svg" width="130" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/devansh-g10" target="_blank" rel="noopener noreferrer">
-    <img src="assets/btn-portfolio.svg" width="130" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
-<!-- About Section Grid -->
-<p align="center">
-  <img src="assets/about-bio.svg" width="380" alt="About Me Bio" />
-  <img src="assets/about-focus.svg" width="380" alt="Current Focus &amp; Goals" />
-</p>
-<p align="center">
-  <img src="assets/about-collab.svg" width="380" alt="Collaboration &amp; Mentorship" />
-  <img src="assets/about-interests.svg" width="380" alt="Interests &amp; Fun Fact" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
-<!-- Tech Stack Categories -->
-<h3 align="center">🛠️ Core Technology Stack</h3>
-<br/>
-
-<p align="center">
-  <b>Programming Languages</b><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,c,js&theme=dark" alt="Languages" /></a>
-</p>
-<br/>
-
-<p align="center">
-  <b>AI / Machine Learning &amp; Computer Vision</b><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark" alt="AI/ML" /></a>
-</p>
-<br/>
-
-<p align="center">
-  <b>Backend Frameworks &amp; Databases</b><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,nestjs,spring,mysql,postgres,mongodb,sqlite,supabase&theme=dark" alt="Backend &amp; Databases" /></a>
-</p>
-<br/>
-
-<p align="center">
-  <b>Frontend Library &amp; Web Essentials</b><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css&theme=dark" alt="Frontend" /></a>
-</p>
-<br/>
-
-<p align="center">
-  <b>Cloud, DevOps &amp; Developer Tooling</b><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,git,github,postman,netlify,vercel&theme=dark" alt="DevOps &amp; Cloud" /></a>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
-<!-- Featured Project Showcase -->
-<h3 align="center">🚀 Featured Project Showcase</h3>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/devansh-g10/crop-shield" target="_blank" rel="noopener noreferrer">
-    <img src="assets/project-crop-shield.svg" width="780" alt="Crop Shield Project" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/devansh-g10/forensight-ai" target="_blank" rel="noopener noreferrer">
-    <img src="assets/project-forensight.svg" width="780" alt="Forensight AI Project" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/devansh-g10/code-quest" target="_blank" rel="noopener noreferrer">
-    <img src="assets/project-code-quest.svg" width="780" alt="Code Quest Project" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
-<!-- Achievements Card -->
-<p align="center">
-  <img src="assets/achievements.svg" width="780" alt="Achievements and Milestones" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
-<!-- GitHub Analytics -->
-<h3 align="center">📊 Interactive Analytics &amp; Activities</h3>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh-g10&show_icons=true&theme=dark&bg_color=111111&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=222222&border_radius=12&hide_border=false" alt="Devansh's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=devansh-g10&theme=dark&background=111111&ring=0070F3&fire=7928CA&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=00E5FF&border=222222&border_radius=12&hide_border=false" alt="Devansh's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-g10&layout=compact&theme=dark&bg_color=111111&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=222222&border_radius=12&hide_border=false" alt="Devansh's Top Languages" />
-</p>
-
-<h3 align="center">🐍 Contribution Activity</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devansh-g10/devansh-g10/output/github-contribution-grid-snake-dark.svg" width="780" alt="Contribution Snake Animation" />
-</p>
-
-<h3 align="center">💡 LeetCode Performance</h3>
-<p align="center">
-  <img src="https://leetcard.jacobw.cc/api/devansh-g10?theme=dark&font=Outfit&ext=activity" width="400" alt="LeetCode Stats Card" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Devansh+%F0%9F%91%8B;Java+Developer;AI%2FML+%26+Advanced+DSA+Enthusiast" alt="Typing SVG" />
 
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devansh-g10&color=0070F3&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
 
-<!-- Footer Wave & Sign-off -->
-<p align="center">
-  <img src="assets/wave.svg" width="100%" alt="Footer Wave" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br/><br/>
-  <b>Designed &amp; Crafted with 💙 by Devansh Maheshwari</b>
-</p>
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Hello World
+
+**I'm Devansh Maheshwari**, a **Java Developer** pursuing my **B.Tech in Computer Science** at **GLA University**. I love writing clean, efficient code and training intelligent models — currently deep in **AI/ML**, **Advanced DSA**, and **prompt engineering**.
+
+🌱 Actively contributing to open source as a **GSSoC Contributor**
+🏆 Placed **4th** at the **INTRUSIONX Cybersecurity Hackathon** for building **ForesightAI**
+📜 Completed the **Machine Learning Specialization** by Andrew Ng (DeepLearning.AI / Coursera)
+
+</td>
+<td width="40%" valign="top">
+
+### 🧭 Developer Status
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, GLA University |
+| 🚀 **Focus** | AI/ML & Adv. DSA |
+| 📍 **Location** | India |
+| 💬 **Ask me about** | Java, ML, DSA |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devansh-g10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-maheshwari-59b46a219/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshmaheshwari3011@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Devansh_Maheshwari13/)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,mongodb,express,react,nodejs,mysql,git,github,tensorflow,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 👤 About Me
+
+- 🎓 Pursuing **B.Tech CSE** at GLA University
+- 🧩 Passionate about **algorithmic problem solving**
+- 🤖 Exploring **Machine Learning** & model training
+- ☕ Backend-leaning **Java Developer**
+- 🌐 Comfortable across the **MERN** stack
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+- 🛠️ Building **ForesightAI** & training ML models
+- 📈 Solving **DSA** challenges daily on **LeetCode**
+- 🧠 Sharpening **AI/ML** & prompt engineering skills
+- 🌱 Contributing to open source via **GSSoC**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Project
+
+<table width="100%">
+<tr>
+<td>
+
+### 🛡️ ForesightAI
+**Built at INTRUSIONX Hackathon (Cybersecurity Domain) — 🏆 4th Place**
+
+A cybersecurity-focused project developed during a competitive hackathon, addressing intrusion/threat-detection challenges as part of a team effort that secured 4th place.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Certifications & Achievements
+
+- 🤖 **Machine Learning Specialization** — Andrew Ng, DeepLearning.AI (Coursera)
+- 🌱 **Open Source Contributor** — GirlScript Summer of Code (GSSoC)
+- 🏆 **4th Place** — INTRUSIONX Cybersecurity Hackathon (Team ForesightAI)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=devansh-g10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devansh-g10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-g10&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-g10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e6edf3" />
+
+</div>
+
+<br/>
+
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Devansh_Maheshwari13?theme=dark&font=baloo_2&extension=activity" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=devansh-g10&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
