@@ -1,154 +1,64 @@
-<div align="center">
+<p align="center">
+  <picture><source media="(max-width: 540px)" srcset="assets/banners/hero-mobile.svg" /><img src="assets/banners/hero.svg" width="100%" alt="Devansh Maheshwari. Computer Science Engineering student at GLA University, Mathura. AI and machine learning, data science, Java, Python and DSA." /></picture>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Devansh+%F0%9F%91%8B;Java+Developer;AI%2FML+%26+Advanced+DSA+Enthusiast" alt="Typing SVG" />
+I’m Devansh, a computer science student at GLA University. I build tools that turn data into decisions, from choosing a less crowded bus in Delhi to spotting a suspicious detail in a document. I also solve data structures and algorithms problems in Java.
 
-<br/>
+[Selected projects](#selected-projects) · [Technical skills](#technical-skills) · [GitHub activity](#github-activity) · [Contact](#contact)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+## About me
 
-</div>
+<picture><source media="(max-width: 540px)" srcset="assets/animations/terminal-mobile.svg" /><img src="assets/animations/terminal.svg" width="100%" alt="B.Tech in Computer Science at GLA University. Interested in computer vision, natural language processing and algorithms. Learning model training and system design to deploy reliable ML-backed services." /></picture>
 
-<br/>
+I’m open to collaborating on machine learning projects and hackathon builds. I contributed to GirlScript Summer of Code, completed Andrew Ng’s Machine Learning Specialization, and placed fourth with Team ForesightAI at the INTRUSIONX Cybersecurity Hackathon.
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## Selected projects
 
-## 👋 Hello World
+<a href="https://github.com/devansh-g10/CrowdSense"><picture><source media="(max-width: 540px)" srcset="assets/projects/crowdsense-mobile.svg" /><img src="assets/projects/crowdsense.svg" width="100%" alt="CrowdSense — compare Delhi bus routes using ticket records, timetables and predicted crowding. Python, DuckDB, FastAPI and React. Open repository." /></picture></a>
 
-**I'm Devansh Maheshwari**, a **Java Developer** pursuing my **B.Tech in Computer Science** at **GLA University**. I love writing clean, efficient code and training intelligent models — currently deep in **AI/ML**, **Advanced DSA**, and **prompt engineering**.
+<a href="https://github.com/devansh-g10/Smart-Attendence"><picture><source media="(max-width: 540px)" srcset="assets/projects/attendance-mobile.svg" /><img src="assets/projects/attendance.svg" width="100%" alt="Smart Attendance — face recognition, class attendance and report exports. Python, OpenCV, Flask and MySQL. Open repository." /></picture></a>
 
-🌱 Actively contributing to open source as a **GSSoC Contributor**
-🏆 Placed **4th** at the **INTRUSIONX Cybersecurity Hackathon** for building **ForesightAI**
-📜 Completed the **Machine Learning Specialization** by Andrew Ng (DeepLearning.AI / Coursera)
+<a href="https://github.com/devansh-g10/ForenSight-AI"><picture><source media="(max-width: 540px)" srcset="assets/projects/forensight-mobile.svg" /><img src="assets/projects/forensight.svg" width="100%" alt="ForenSight-AI — inspect IDs and documents for signs of forgery with OCR and image analysis. Python, PyTorch, OpenCV and FastAPI. Open repository." /></picture></a>
 
-</td>
-<td width="40%" valign="top">
+<a href="https://github.com/devansh-g10/code-quest"><picture><source media="(max-width: 540px)" srcset="assets/projects/code-quest-mobile.svg" /><img src="assets/projects/code-quest.svg" width="100%" alt="Code Quest — full-stack coding challenge platform. React, Vite, Express and MongoDB. Open repository." /></picture></a>
 
-### 🧭 Developer Status
+More work includes [machine learning exercises in Python](https://github.com/devansh-g10/deep-ml), [LeetCode solutions in Java](https://github.com/devansh-g10/Leetcode-Problem-Solution-), and [my CropShield AI fork](https://github.com/devansh-g10/CropShield-AI) for diagnosing crop disease from leaf images.
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech CSE, GLA University |
-| 🚀 **Focus** | AI/ML & Adv. DSA |
-| 📍 **Location** | India |
-| 💬 **Ask me about** | Java, ML, DSA |
+<img src="assets/animations/divider.svg" width="100%" alt="" />
 
-</td>
-</tr>
-</table>
+## Technical skills
 
-<div align="center">
+<p align="center">
+  <img src="assets/icons/languages.svg" width="395" alt="Programming languages — Java, Python, TypeScript and JavaScript" />
+  <img src="assets/icons/ml.svg" width="395" alt="Artificial intelligence and machine learning — PyTorch, OpenCV and scikit-learn" />
+  <img src="assets/icons/data.svg" width="395" alt="Data science — pandas, NumPy and Jupyter" />
+  <img src="assets/icons/frontend.svg" width="395" alt="Frontend development — React, Vite and Tailwind CSS" />
+  <img src="assets/icons/backend.svg" width="395" alt="Backend development — FastAPI, Flask and Express" />
+  <img src="assets/icons/databases.svg" width="395" alt="Databases — DuckDB, MySQL and MongoDB" />
+  <img src="assets/icons/cloud.svg" width="395" alt="Cloud computing — Vercel deployments and GitHub Pages" />
+  <img src="assets/icons/tools.svg" width="395" alt="Developer tools — Git, GitHub Actions and Google Colab" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devansh-g10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-maheshwari-59b46a219/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshmaheshwari3011@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Devansh_Maheshwari13/)
+## GitHub activity
 
-</div>
+<picture><source media="(max-width: 540px)" srcset="assets/stats/repositories-mobile.svg" /><img src="assets/stats/repositories.svg" width="100%" alt="Repository dashboard with public repository counts, stars on non-fork repositories, and a breakdown of their languages by bytes." /></picture>
 
-<br/>
+<picture><source media="(max-width: 540px)" srcset="assets/stats/contributions-mobile.svg" /><img src="assets/stats/contributions.svg" width="100%" alt="One year of GitHub contributions, current and longest streaks in the window, and an animated snake tracing active days." /></picture>
 
-## 🛠️ Tech Stack
+<details>
+<summary>Explore the last 12 weeks in 3D</summary>
 
-<div align="center">
+<img src="assets/stats/terrain.svg" width="100%" alt="Isometric view of the last 84 days. Each tile represents a day and its height represents the number of contributions." />
 
-<img src="https://skillicons.dev/icons?i=java,python,mongodb,express,react,nodejs,mysql,git,github,tensorflow,vscode&theme=dark" />
+</details>
 
-</div>
+## Contact
 
-<br/>
+<p>
+  <a href="https://github.com/devansh-g10"><img src="assets/icons/contact-github.svg" width="132" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/devansh-maheshwari-59b46a219/"><img src="assets/icons/contact-linkedin.svg" width="132" alt="LinkedIn profile" /></a>
+  <a href="https://leetcode.com/u/Devansh_Maheshwari13/"><img src="assets/icons/contact-leetcode.svg" width="132" alt="LeetCode profile" /></a>
+  <a href="mailto:devanshmaheshwari3011@gmail.com"><img src="assets/icons/contact-email.svg" width="132" alt="Email Devansh" /></a>
+</p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 👤 About Me
-
-- 🎓 Pursuing **B.Tech CSE** at GLA University
-- 🧩 Passionate about **algorithmic problem solving**
-- 🤖 Exploring **Machine Learning** & model training
-- ☕ Backend-leaning **Java Developer**
-- 🌐 Comfortable across the **MERN** stack
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Current Focus
-
-- 🛠️ Building **ForesightAI** & training ML models
-- 📈 Solving **DSA** challenges daily on **LeetCode**
-- 🧠 Sharpening **AI/ML** & prompt engineering skills
-- 🌱 Contributing to open source via **GSSoC**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Project
-
-<table width="100%">
-<tr>
-<td>
-
-### 🛡️ ForesightAI
-**Built at INTRUSIONX Hackathon (Cybersecurity Domain) — 🏆 4th Place**
-
-A cybersecurity-focused project developed during a competitive hackathon, addressing intrusion/threat-detection challenges as part of a team effort that secured 4th place.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📜 Certifications & Achievements
-
-- 🤖 **Machine Learning Specialization** — Andrew Ng, DeepLearning.AI (Coursera)
-- 🌱 **Open Source Contributor** — GirlScript Summer of Code (GSSoC)
-- 🏆 **4th Place** — INTRUSIONX Cybersecurity Hackathon (Team ForesightAI)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=devansh-g10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devansh-g10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-g10&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-g10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e6edf3" />
-
-</div>
-
-<br/>
-
-## 🏆 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Devansh_Maheshwari13?theme=dark&font=baloo_2&extension=activity" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=devansh-g10&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-</div>
+<img src="assets/animations/footer.svg" width="100%" alt="" />

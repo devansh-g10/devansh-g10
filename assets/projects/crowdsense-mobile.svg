@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="201" viewBox="0 0 390 201" role="img" aria-labelledby="title desc" font-family="Inter, Segoe UI, Arial, sans-serif">
+<title id="title">CrowdSense</title><desc id="desc">Compare Delhi bus routes using ticket records, timetables and predicted crowding. Python · DuckDB · FastAPI · React</desc>
+<defs>
+  <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#14273d"/><stop offset=".48" stop-color="#0b182a"/><stop offset="1" stop-color="#17172e"/></linearGradient>
+  <linearGradient id="spectrum"><stop stop-color="#70f5e4"/><stop offset=".55" stop-color="#72a1ff"/><stop offset="1" stop-color="#bd9bff"/></linearGradient>
+  
+</defs>
+<style>
+  @keyframes pulse {50% {opacity:.38}}
+  @keyframes flow {to {stroke-dashoffset:-80}}
+  @keyframes float {50% {transform:translateY(-4px)}}
+  @media (prefers-reduced-motion:no-preference) {
+    .pulse {animation:pulse 4s ease-in-out infinite}
+    .flow {animation:flow 12s linear infinite}
+    .float {animation:float 6s ease-in-out infinite}
+  }
+  
+  @media (prefers-reduced-motion:reduce) {* {animation:none!important}}
+</style>
+<rect x="1" y="1" width="388" height="199" rx="16" fill="url(#surface)" stroke="#364965"/><g transform="translate(287 9) scale(.54)"><g class="float"><path d="M8 36l34 24 23 39h27l40 23M14 112l35-29 34-3 42-25" fill="none" stroke="#476177" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M8 97l26-26h26l25-31h28l23-22" fill="none" stroke="#70f5e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M8 97l26-26h26l25-31h28l23-22" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flow" stroke-dasharray="5 75"/><circle cx="8" cy="97" r="4" fill="#eff5ff" stroke="#70f5e4" stroke-width="2"/><circle cx="34" cy="71" r="4" fill="#eff5ff" stroke="#70f5e4" stroke-width="2"/><circle cx="60" cy="71" r="4" fill="#eff5ff" stroke="#70f5e4" stroke-width="2"/><circle cx="85" cy="40" r="4" fill="#eff5ff" stroke="#70f5e4" stroke-width="2"/><circle cx="113" cy="40" r="4" fill="#eff5ff" stroke="#70f5e4" stroke-width="2"/><circle cx="136" cy="18" r="4" fill="#eff5ff" stroke="#70f5e4" stroke-width="2"/></g></g><text x="22" y="33" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">TRANSIT ANALYTICS</text><text x="21" y="76" font-size="31" fill="#eff5ff" font-weight="650">CrowdSense</text><text x="22" y="111" font-size="15" fill="#eff5ff" >Compare Delhi bus routes using ticket records,</text><text x="22" y="134" font-size="15" fill="#eff5ff" >timetables and predicted crowding.</text><path d="M22 152H366" fill="none" stroke="#354761" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><text x="22" y="180" font-size="15" fill="#a5b8d2" >Python · DuckDB · FastAPI · React</text><path d="M350 179l12-12m-9 0h9v9" fill="none" stroke="#70f5e4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

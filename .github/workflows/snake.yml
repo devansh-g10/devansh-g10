@@ -1,35 +1,29 @@
-name: Generate Snake
+name: Contribution artwork
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '43 3 * * *'
 
-permissions:
-  contents: write
+permissions: {}
 
 jobs:
-  build:
-    name: Generate contribution grid snake
+  refresh:
+    if: github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    concurrency:
+      group: profile-artwork-${{ github.ref }}
+      cancel-in-progress: false
     steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
-          github_user_name: devansh-g10
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3b82f6&color_dots=#0b1220,#1e293b,#334155,#475569,#3b82f6
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+          ref: ${{ github.ref_name }}
+      - name: Render calendar, snake and terrain
+        run: node scripts/analytics.mjs contributions
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Publish changed SVGs
+        run: bash scripts/publish-assets.sh assets/stats/contributions.svg assets/stats/contributions-mobile.svg assets/stats/terrain.svg

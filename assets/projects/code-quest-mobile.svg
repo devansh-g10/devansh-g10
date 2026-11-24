@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="201" viewBox="0 0 390 201" role="img" aria-labelledby="title desc" font-family="Inter, Segoe UI, Arial, sans-serif">
+<title id="title">Code Quest</title><desc id="desc">A full-stack coding challenge platform for practising programming problems. React · Vite · Express · MongoDB</desc>
+<defs>
+  <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#14273d"/><stop offset=".48" stop-color="#0b182a"/><stop offset="1" stop-color="#17172e"/></linearGradient>
+  <linearGradient id="spectrum"><stop stop-color="#70f5e4"/><stop offset=".55" stop-color="#72a1ff"/><stop offset="1" stop-color="#bd9bff"/></linearGradient>
+  
+</defs>
+<style>
+  @keyframes pulse {50% {opacity:.38}}
+  @keyframes flow {to {stroke-dashoffset:-80}}
+  @keyframes float {50% {transform:translateY(-4px)}}
+  @media (prefers-reduced-motion:no-preference) {
+    .pulse {animation:pulse 4s ease-in-out infinite}
+    .flow {animation:flow 12s linear infinite}
+    .float {animation:float 6s ease-in-out infinite}
+  }
+  
+  @media (prefers-reduced-motion:reduce) {* {animation:none!important}}
+</style>
+<rect x="1" y="1" width="388" height="199" rx="16" fill="url(#surface)" stroke="#364965"/><g transform="translate(287 9) scale(.54)"><g class="float"><path d="M22 27h98v74H22zM22 41h98M30 34h2m4 0h2M52 58l-9 9 9 9m36-18 9 9-9 9m-12-24-11 29" fill="none" stroke="#70f5e4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M35 91h29" fill="none" stroke="#70f5e4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="pulse"/></g></g><text x="22" y="33" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">DEVELOPER TOOLS</text><text x="21" y="76" font-size="31" fill="#eff5ff" font-weight="650">Code Quest</text><text x="22" y="111" font-size="15" fill="#eff5ff" >A full-stack coding challenge platform for</text><text x="22" y="134" font-size="15" fill="#eff5ff" >practising programming problems.</text><path d="M22 152H366" fill="none" stroke="#354761" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><text x="22" y="180" font-size="15" fill="#a5b8d2" >React · Vite · Express · MongoDB</text><path d="M350 179l12-12m-9 0h9v9" fill="none" stroke="#70f5e4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

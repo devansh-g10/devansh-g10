@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="278" viewBox="0 0 390 278" role="img" aria-labelledby="title desc" font-family="Inter, Segoe UI, Arial, sans-serif">
+<title id="title">Developer terminal</title><desc id="desc">study — B.Tech in Computer Science · GLA University. interests — Computer vision, NLP and algorithms. learning — Model training and system design. goal — Deploy reliable ML-backed services</desc>
+<defs>
+  <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#14273d"/><stop offset=".48" stop-color="#0b182a"/><stop offset="1" stop-color="#17172e"/></linearGradient>
+  <linearGradient id="spectrum"><stop stop-color="#70f5e4"/><stop offset=".55" stop-color="#72a1ff"/><stop offset="1" stop-color="#bd9bff"/></linearGradient>
+  
+</defs>
+<style>
+  @keyframes pulse {50% {opacity:.38}}
+  @keyframes flow {to {stroke-dashoffset:-80}}
+  @keyframes float {50% {transform:translateY(-4px)}}
+  @media (prefers-reduced-motion:no-preference) {
+    .pulse {animation:pulse 4s ease-in-out infinite}
+    .flow {animation:flow 12s linear infinite}
+    .float {animation:float 6s ease-in-out infinite}
+  }
+  @keyframes command {from {clip-path:inset(0 100% 0 0)} to {clip-path:inset(0)}}
+    @keyframes rain {50% {transform:translateY(18px);opacity:.05}}
+    @media (prefers-reduced-motion:no-preference) {.cmd {transform-box:fill-box;animation:command 1.6s steps(19) both}.cursor {animation:pulse 1.2s steps(2) infinite}.rain {animation:rain 5s ease-in-out infinite}}
+  @media (prefers-reduced-motion:reduce) {* {animation:none!important}}
+</style>
+<rect x="1" y="1" width="388" height="276" rx="16" fill="url(#surface)" stroke="#364965"/><text x="23" y="25" font-size="12" fill="#a5b8d2" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">DEVANSH@GLA</text><path d="M1 39H389" fill="none" stroke="#30415c" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><text x="23" y="63" font-size="15" fill="#eff5ff" class="cmd" font-family="IBM Plex Mono, Consolas, monospace">$ cat devansh.profile</text><text x="23" y="91" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">study</text><text x="23" y="112" font-size="15" fill="#eff5ff" >B.Tech in Computer Science · GLA University</text><text x="23" y="138" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">interests</text><text x="23" y="159" font-size="15" fill="#eff5ff" >Computer vision, NLP and algorithms</text><text x="23" y="185" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">learning</text><text x="23" y="206" font-size="15" fill="#eff5ff" >Model training and system design</text><text x="23" y="232" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">goal</text><text x="23" y="253" font-size="15" fill="#eff5ff" >Deploy reliable ML-backed services</text><rect class="cursor" x="23" y="262" width="9" height="3" fill="#70f5e4"/>
+</svg>

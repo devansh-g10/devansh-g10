@@ -1,0 +1,29 @@
+name: Repository statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions: {}
+
+jobs:
+  refresh:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    concurrency:
+      group: profile-artwork-${{ github.ref }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Read public repository statistics
+        run: node scripts/analytics.mjs stats
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Publish changed SVGs
+        run: bash scripts/publish-assets.sh assets/stats/repositories.svg assets/stats/repositories-mobile.svg

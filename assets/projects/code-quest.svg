@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="668" height="152" viewBox="0 0 668 152" role="img" aria-labelledby="title desc" font-family="Inter, Segoe UI, Arial, sans-serif">
+<title id="title">Code Quest</title><desc id="desc">A full-stack coding challenge platform for practising programming problems. React · Vite · Express · MongoDB</desc>
+<defs>
+  <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#14273d"/><stop offset=".48" stop-color="#0b182a"/><stop offset="1" stop-color="#17172e"/></linearGradient>
+  <linearGradient id="spectrum"><stop stop-color="#70f5e4"/><stop offset=".55" stop-color="#72a1ff"/><stop offset="1" stop-color="#bd9bff"/></linearGradient>
+  <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#45627a"/></pattern>
+</defs>
+<style>
+  @keyframes pulse {50% {opacity:.38}}
+  @keyframes flow {to {stroke-dashoffset:-80}}
+  @keyframes float {50% {transform:translateY(-4px)}}
+  @media (prefers-reduced-motion:no-preference) {
+    .pulse {animation:pulse 4s ease-in-out infinite}
+    .flow {animation:flow 12s linear infinite}
+    .float {animation:float 6s ease-in-out infinite}
+  }
+  @keyframes scanline {50% {transform:translateY(18px)}} @media (prefers-reduced-motion:no-preference){.scan {animation:scanline 4s ease-in-out infinite}}
+  @media (prefers-reduced-motion:reduce) {* {animation:none!important}}
+</style>
+<rect x="1" y="1" width="666" height="150" rx="16" fill="url(#surface)" stroke="#364965"/><g transform="translate(17 15)"><rect width="144" height="122" rx="9" fill="#122339"/>
+      <rect width="144" height="122" rx="9" fill="url(#dots)"/><path d="M22 27h98v74H22zM22 41h98M30 34h2m4 0h2M52 58l-9 9 9 9m36-18 9 9-9 9m-12-24-11 29" fill="none" stroke="#70f5e4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M35 91h29" fill="none" stroke="#70f5e4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="pulse"/></g><text x="181" y="29" font-size="11" fill="#70f5e4" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">DEVELOPER TOOLS</text><text x="180" y="62" font-size="32" fill="#eff5ff" font-weight="650">Code Quest</text><text x="181" y="88" font-size="16" fill="#eff5ff" >A full-stack coding challenge platform for</text><text x="181" y="108" font-size="16" fill="#eff5ff" >practising programming problems.</text><text x="181" y="135" font-size="14" fill="#a5b8d2" >React · Vite · Express · MongoDB</text><path d="M626 35l14-14m-11 0h11v11" fill="none" stroke="#70f5e4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

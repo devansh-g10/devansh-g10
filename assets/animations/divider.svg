@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="22" viewBox="0 0 900 22" role="img" aria-labelledby="title desc" font-family="Inter, Segoe UI, Arial, sans-serif">
+<title id="title">Section divider</title><desc id="desc"></desc>
+<defs>
+  <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#14273d"/><stop offset=".48" stop-color="#0b182a"/><stop offset="1" stop-color="#17172e"/></linearGradient>
+  <linearGradient id="spectrum"><stop stop-color="#70f5e4"/><stop offset=".55" stop-color="#72a1ff"/><stop offset="1" stop-color="#bd9bff"/></linearGradient>
+  
+</defs>
+<style>
+  @keyframes pulse {50% {opacity:.38}}
+  @keyframes flow {to {stroke-dashoffset:-80}}
+  @keyframes float {50% {transform:translateY(-4px)}}
+  @media (prefers-reduced-motion:no-preference) {
+    .pulse {animation:pulse 4s ease-in-out infinite}
+    .flow {animation:flow 12s linear infinite}
+    .float {animation:float 6s ease-in-out infinite}
+  }
+  
+  @media (prefers-reduced-motion:reduce) {* {animation:none!important}}
+</style>
+<path d="M0 12H310L355 5 397 16 444 7 485 17 539 9 581 14H900" fill="none" stroke="#527694" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><path d="M310 12l87 4 88 1 96-3M355 5l89 2 95 2" fill="none" stroke="url(#spectrum)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="flow" stroke-dasharray="50 30"/><circle cx="310" cy="12" r="2.5" fill="#70f5e4" class="pulse"/><circle cx="355" cy="5" r="2.5" fill="#70f5e4" class="pulse"/><circle cx="397" cy="16" r="2.5" fill="#70f5e4" class="pulse"/><circle cx="444" cy="7" r="2.5" fill="#70f5e4" class="pulse"/><circle cx="485" cy="17" r="2.5" fill="#70f5e4" class="pulse"/><circle cx="539" cy="9" r="2.5" fill="#70f5e4" class="pulse"/><circle cx="581" cy="14" r="2.5" fill="#70f5e4" class="pulse"/>
+</svg>
