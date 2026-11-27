@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="730" height="218" viewBox="0 0 730 218" role="img" aria-labelledby="title desc" font-family="Inter, Segoe UI, Arial, sans-serif">
-<title id="title">Contribution terrain</title><desc id="desc">Daily contribution counts from 2026-09-04 through 2026-11-26. Column height is proportional to daily contributions.</desc>
+<title id="title">Contribution terrain</title><desc id="desc">Daily contribution counts from 2026-09-05 through 2026-11-27. Column height is proportional to daily contributions.</desc>
 <defs>
   <linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#14273d"/><stop offset=".48" stop-color="#0b182a"/><stop offset="1" stop-color="#17172e"/></linearGradient>
   <linearGradient id="spectrum"><stop stop-color="#70f5e4"/><stop offset=".55" stop-color="#72a1ff"/><stop offset="1" stop-color="#bd9bff"/></linearGradient>
@@ -17,257 +17,257 @@
   
   @media (prefers-reduced-motion:reduce) {* {animation:none!important}}
 </style>
-<rect x="1" y="1" width="728" height="216" rx="16" fill="url(#surface)" stroke="#364965"/><text x="26" y="29" font-size="12" fill="#bd9bff" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">CONTRIBUTION TERRAIN</text><g><title>2026-09-04 · 1</title>
-      <path d="M192 87.3l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M208 92.3l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M208 82.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-11 · 26</title>
-      <path d="M212 50.8l16 5v44.0l-16-5z" fill="#2b596e"/>
-      <path d="M228 55.8l16-5v44.0l-16 5z" fill="#1b3b51"/>
-      <path d="M228 45.8l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-09-05 · 6</title>
-      <path d="M174 85.4l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M190 90.4l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M190 80.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-18 · 7</title>
+<rect x="1" y="1" width="728" height="216" rx="16" fill="url(#surface)" stroke="#364965"/><text x="26" y="29" font-size="12" fill="#bd9bff" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">CONTRIBUTION TERRAIN</text><g><title>2026-09-05 · 6</title>
+      <path d="M192 78.8l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M208 83.8l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M208 73.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-12 · 3</title>
+      <path d="M212 89.7l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M228 94.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M228 84.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-06 · 7</title>
+      <path d="M174 83.8l16 5v11.8l-16-5z" fill="#2b596e"/>
+      <path d="M190 88.8l16-5v11.8l-16 5z" fill="#1b3b51"/>
+      <path d="M190 78.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-19 · 7</title>
       <path d="M232 88.8l16 5v11.8l-16-5z" fill="#2b596e"/>
       <path d="M248 93.8l16-5v11.8l-16 5z" fill="#1b3b51"/>
-      <path d="M248 83.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-12 · 3</title>
-      <path d="M194 96.3l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M210 101.3l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M210 91.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-06 · 7</title>
-      <path d="M156 90.4l16 5v11.8l-16-5z" fill="#2b596e"/>
-      <path d="M172 95.4l16-5v11.8l-16 5z" fill="#1b3b51"/>
-      <path d="M172 85.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-25 · 0</title>
-      <path d="M252 106.4l16 5v0.0l-16-5z" fill="#2b596e"/>
-      <path d="M268 111.4l16-5v0.0l-16 5z" fill="#1b3b51"/>
-      <path d="M268 101.4l16 5-16 5-16-5z" fill="#1b3043"/></g><g><title>2026-09-19 · 7</title>
-      <path d="M214 95.4l16 5v11.8l-16-5z" fill="#2b596e"/>
-      <path d="M230 100.4l16-5v11.8l-16 5z" fill="#1b3b51"/>
-      <path d="M230 90.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-13 · 12</title>
-      <path d="M176 87.7l16 5v20.3l-16-5z" fill="#2b596e"/>
-      <path d="M192 92.7l16-5v20.3l-16 5z" fill="#1b3b51"/>
-      <path d="M192 82.7l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-09-07 · 5</title>
-      <path d="M138 100.3l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M154 105.3l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M154 95.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-02 · 3</title>
-      <path d="M272 107.1l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M288 112.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M288 102.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-26 · 9</title>
-      <path d="M234 97.8l16 5v15.2l-16-5z" fill="#2b596e"/>
-      <path d="M250 102.8l16-5v15.2l-16 5z" fill="#1b3b51"/>
-      <path d="M250 92.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-20 · 3</title>
-      <path d="M196 108.7l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M212 113.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M212 103.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-14 · 2</title>
-      <path d="M158 111.2l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M174 116.2l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M174 106.2l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-08 · 6</title>
-      <path d="M120 105.2l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M136 110.2l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M136 100.2l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-09 · 2</title>
-      <path d="M292 114.6l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M308 119.6l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M308 109.6l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-03 · 4</title>
-      <path d="M254 112.0l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M270 117l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M270 107l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-27 · 3</title>
-      <path d="M216 114.5l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M232 119.5l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M232 109.5l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-21 · 2</title>
-      <path d="M178 117.0l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M194 122l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M194 112l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-15 · 4</title>
-      <path d="M140 114.4l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M156 119.4l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M156 109.4l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-09 · 2</title>
+      <path d="M248 83.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-13 · 12</title>
+      <path d="M194 81.1l16 5v20.3l-16-5z" fill="#2b596e"/>
+      <path d="M210 86.1l16-5v20.3l-16 5z" fill="#1b3b51"/>
+      <path d="M210 76.1l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-09-07 · 5</title>
+      <path d="M156 93.7l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M172 98.7l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M172 88.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-26 · 9</title>
+      <path d="M252 91.2l16 5v15.2l-16-5z" fill="#2b596e"/>
+      <path d="M268 96.2l16-5v15.2l-16 5z" fill="#1b3b51"/>
+      <path d="M268 86.2l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-09-20 · 3</title>
+      <path d="M214 102.1l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M230 107.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M230 97.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-14 · 2</title>
+      <path d="M176 104.6l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M192 109.6l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M192 99.6l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-08 · 6</title>
+      <path d="M138 98.6l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M154 103.6l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M154 93.6l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-03 · 4</title>
+      <path d="M272 105.4l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M288 110.4l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M288 100.4l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-27 · 3</title>
+      <path d="M234 107.9l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M250 112.9l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M250 102.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-21 · 2</title>
+      <path d="M196 110.4l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M212 115.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M212 105.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-15 · 4</title>
+      <path d="M158 107.8l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M174 112.8l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M174 102.8l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-09 · 2</title>
+      <path d="M120 112.0l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M136 117l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M136 107l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-10 · 3</title>
+      <path d="M292 112.9l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M308 117.9l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M308 107.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-04 · 3</title>
+      <path d="M254 113.7l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M270 118.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M270 108.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-28 · 1</title>
+      <path d="M216 117.9l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M232 122.9l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M232 112.9l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-22 · 1</title>
+      <path d="M178 118.7l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M194 123.7l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M194 113.7l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-16 · 2</title>
+      <path d="M140 117.8l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M156 122.8l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M156 112.8l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-10 · 2</title>
       <path d="M102 118.6l16 5v3.4l-16-5z" fill="#2b596e"/>
       <path d="M118 123.6l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M118 113.6l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-16 · 2</title>
-      <path d="M312 120.4l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M328 125.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M328 115.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-10 · 3</title>
-      <path d="M274 119.5l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M290 124.5l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M290 114.5l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-04 · 3</title>
-      <path d="M236 120.3l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M252 125.3l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M252 115.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-28 · 1</title>
-      <path d="M198 124.5l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M214 129.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M214 119.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-22 · 1</title>
+      <path d="M118 113.6l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-17 · 5</title>
+      <path d="M312 115.3l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M328 120.3l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M328 110.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-11 · 8</title>
+      <path d="M274 111.1l16 5v13.5l-16-5z" fill="#2b596e"/>
+      <path d="M290 116.1l16-5v13.5l-16 5z" fill="#1b3b51"/>
+      <path d="M290 106.1l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-05 · 4</title>
+      <path d="M236 118.6l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M252 123.6l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M252 113.6l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-29 · 0</title>
+      <path d="M198 126.2l16 5v0.0l-16-5z" fill="#2b596e"/>
+      <path d="M214 131.2l16-5v0.0l-16 5z" fill="#1b3b51"/>
+      <path d="M214 121.2l16 5-16 5-16-5z" fill="#1b3043"/></g><g><title>2026-09-23 · 1</title>
       <path d="M160 125.3l16 5v1.7l-16-5z" fill="#2b596e"/>
       <path d="M176 130.3l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M176 120.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-16 · 2</title>
-      <path d="M122 124.4l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M138 129.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M138 119.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-10 · 2</title>
-      <path d="M84 125.2l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M100 130.2l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M100 120.2l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-23 · 8</title>
-      <path d="M332 116.1l16 5v13.5l-16-5z" fill="#2b596e"/>
-      <path d="M348 121.1l16-5v13.5l-16 5z" fill="#1b3b51"/>
-      <path d="M348 111.1l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-17 · 5</title>
-      <path d="M294 121.9l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M310 126.9l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M310 116.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-11 · 8</title>
-      <path d="M256 117.7l16 5v13.5l-16-5z" fill="#2b596e"/>
-      <path d="M272 122.7l16-5v13.5l-16 5z" fill="#1b3b51"/>
-      <path d="M272 112.7l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-05 · 4</title>
+      <path d="M176 120.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-17 · 4</title>
+      <path d="M122 121.0l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M138 126l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M138 116l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-11 · 26</title>
+      <path d="M84 84.6l16 5v44.0l-16-5z" fill="#2b596e"/>
+      <path d="M100 89.6l16-5v44.0l-16 5z" fill="#1b3b51"/>
+      <path d="M100 79.6l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-24 · 6</title>
+      <path d="M332 119.4l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M348 124.4l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M348 114.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-18 · 11</title>
+      <path d="M294 111.8l16 5v18.6l-16-5z" fill="#2b596e"/>
+      <path d="M310 116.8l16-5v18.6l-16 5z" fill="#1b3b51"/>
+      <path d="M310 106.8l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-12 · 2</title>
+      <path d="M256 127.8l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M272 132.8l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M272 122.8l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-06 · 4</title>
       <path d="M218 125.2l16 5v6.8l-16-5z" fill="#2b596e"/>
       <path d="M234 130.2l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M234 120.2l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-29 · 0</title>
-      <path d="M180 132.8l16 5v0.0l-16-5z" fill="#2b596e"/>
-      <path d="M196 137.8l16-5v0.0l-16 5z" fill="#1b3b51"/>
-      <path d="M196 127.80000000000001l16 5-16 5-16-5z" fill="#1b3043"/></g><g><title>2026-09-23 · 1</title>
+      <path d="M234 120.2l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-30 · 2</title>
+      <path d="M180 129.4l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M196 134.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M196 124.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-24 · 1</title>
       <path d="M142 131.9l16 5v1.7l-16-5z" fill="#2b596e"/>
       <path d="M158 136.9l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M158 126.9l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-17 · 4</title>
-      <path d="M104 127.6l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M120 132.6l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M120 122.6l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-30 · 3</title>
-      <path d="M352 130.3l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M368 135.3l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M368 125.30000000000001l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-24 · 6</title>
-      <path d="M314 126.0l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M330 131l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M330 121l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-18 · 11</title>
+      <path d="M158 126.9l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-18 · 7</title>
+      <path d="M104 122.6l16 5v11.8l-16-5z" fill="#2b596e"/>
+      <path d="M120 127.6l16-5v11.8l-16 5z" fill="#1b3b51"/>
+      <path d="M120 117.6l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-31 · 6</title>
+      <path d="M352 125.2l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M368 130.2l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M368 120.2l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-25 · 3</title>
+      <path d="M314 131.1l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M330 136.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M330 126.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-19 · 11</title>
       <path d="M276 118.4l16 5v18.6l-16-5z" fill="#2b596e"/>
       <path d="M292 123.4l16-5v18.6l-16 5z" fill="#1b3b51"/>
-      <path d="M292 113.4l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-12 · 2</title>
-      <path d="M238 134.4l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M254 139.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M254 129.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-06 · 4</title>
-      <path d="M200 131.8l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M216 136.8l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M216 126.80000000000001l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-30 · 2</title>
-      <path d="M162 136.0l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M178 141l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M178 131l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-09-24 · 1</title>
-      <path d="M124 138.5l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M140 143.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M140 133.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-06 · 1</title>
-      <path d="M372 139.5l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M388 144.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M388 134.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-31 · 6</title>
-      <path d="M334 131.8l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M350 136.8l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M350 126.80000000000001l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-25 · 3</title>
-      <path d="M296 137.7l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M312 142.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M312 132.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-19 · 11</title>
+      <path d="M292 113.4l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-13 · 1</title>
+      <path d="M238 136.1l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M254 141.1l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M254 131.1l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-07 · 7</title>
+      <path d="M200 126.8l16 5v11.8l-16-5z" fill="#2b596e"/>
+      <path d="M216 131.8l16-5v11.8l-16 5z" fill="#1b3b51"/>
+      <path d="M216 121.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-01 · 5</title>
+      <path d="M162 130.9l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M178 135.9l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M178 125.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-09-25 · 0</title>
+      <path d="M124 140.2l16 5v0.0l-16-5z" fill="#2b596e"/>
+      <path d="M140 145.2l16-5v0.0l-16 5z" fill="#1b3b51"/>
+      <path d="M140 135.2l16 5-16 5-16-5z" fill="#1b3043"/></g><g><title>2026-11-07 · 3</title>
+      <path d="M372 136.1l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M388 141.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M388 131.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-01 · 5</title>
+      <path d="M334 133.5l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M350 138.5l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M350 128.5l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-26 · 2</title>
+      <path d="M296 139.4l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M312 144.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M312 134.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-20 · 11</title>
       <path d="M258 125.0l16 5v18.6l-16-5z" fill="#2b596e"/>
       <path d="M274 130l16-5v18.6l-16 5z" fill="#1b3b51"/>
-      <path d="M274 120l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-13 · 1</title>
-      <path d="M220 142.7l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M236 147.7l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M236 137.7l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-07 · 7</title>
-      <path d="M182 133.4l16 5v11.8l-16-5z" fill="#2b596e"/>
-      <path d="M198 138.4l16-5v11.8l-16 5z" fill="#1b3b51"/>
-      <path d="M198 128.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-01 · 5</title>
-      <path d="M144 137.5l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M160 142.5l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M160 132.5l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-13 · 6</title>
-      <path d="M392 136.8l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M408 141.8l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M408 131.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-07 · 3</title>
+      <path d="M274 120l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-14 · 4</title>
+      <path d="M220 137.6l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M236 142.6l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M236 132.6l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-08 · 4</title>
+      <path d="M182 138.4l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M198 143.4l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M198 133.4l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-02 · 3</title>
+      <path d="M144 140.9l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M160 145.9l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M160 135.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-14 · 3</title>
+      <path d="M392 141.9l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M408 146.9l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M408 136.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-08 · 3</title>
       <path d="M354 142.7l16 5v5.1l-16-5z" fill="#2b596e"/>
       <path d="M370 147.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M370 137.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-01 · 5</title>
-      <path d="M316 140.1l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M332 145.1l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M332 135.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-26 · 2</title>
+      <path d="M370 137.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-02 · 1</title>
+      <path d="M316 146.9l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M332 151.9l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M332 141.9l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-27 · 2</title>
       <path d="M278 146.0l16 5v3.4l-16-5z" fill="#2b596e"/>
       <path d="M294 151l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M294 141l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-20 · 11</title>
-      <path d="M240 131.6l16 5v18.6l-16-5z" fill="#2b596e"/>
-      <path d="M256 136.6l16-5v18.6l-16 5z" fill="#1b3b51"/>
-      <path d="M256 126.6l16 5-16 5-16-5z" fill="#70f5e4"/></g><g><title>2026-10-14 · 4</title>
-      <path d="M202 144.2l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M218 149.2l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M218 139.2l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-08 · 4</title>
-      <path d="M164 145.0l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M180 150l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M180 140l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-20 · 4</title>
+      <path d="M294 141l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-21 · 3</title>
+      <path d="M240 145.1l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M256 150.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M256 140.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-15 · 9</title>
+      <path d="M202 135.8l16 5v15.2l-16-5z" fill="#2b596e"/>
+      <path d="M218 140.8l16-5v15.2l-16 5z" fill="#1b3b51"/>
+      <path d="M218 130.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-09 · 2</title>
+      <path d="M164 148.4l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M180 153.4l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M180 143.4l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-21 · 4</title>
       <path d="M412 146.0l16 5v6.8l-16-5z" fill="#2b596e"/>
       <path d="M428 151l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M428 141l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-14 · 3</title>
-      <path d="M374 148.5l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M390 153.5l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M390 143.5l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-08 · 3</title>
+      <path d="M428 141l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-15 · 5</title>
+      <path d="M374 145.1l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M390 150.1l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M390 140.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-09 · 3</title>
       <path d="M336 149.3l16 5v5.1l-16-5z" fill="#2b596e"/>
       <path d="M352 154.3l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M352 144.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-02 · 1</title>
-      <path d="M298 153.5l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M314 158.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M314 148.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-27 · 2</title>
-      <path d="M260 152.6l16 5v3.4l-16-5z" fill="#2b596e"/>
-      <path d="M276 157.6l16-5v3.4l-16 5z" fill="#1b3b51"/>
-      <path d="M276 147.6l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-21 · 3</title>
+      <path d="M352 144.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-03 · 3</title>
+      <path d="M298 150.1l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M314 155.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M314 145.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-28 · 7</title>
+      <path d="M260 144.2l16 5v11.8l-16-5z" fill="#2b596e"/>
+      <path d="M276 149.2l16-5v11.8l-16 5z" fill="#1b3b51"/>
+      <path d="M276 139.2l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-22 · 3</title>
       <path d="M222 151.7l16 5v5.1l-16-5z" fill="#2b596e"/>
       <path d="M238 156.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M238 146.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-15 · 9</title>
-      <path d="M184 142.4l16 5v15.2l-16-5z" fill="#2b596e"/>
-      <path d="M200 147.4l16-5v15.2l-16 5z" fill="#1b3b51"/>
-      <path d="M200 137.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-21 · 4</title>
-      <path d="M394 152.6l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M410 157.6l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M410 147.6l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-15 · 5</title>
-      <path d="M356 151.7l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M372 156.7l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M372 146.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-09 · 3</title>
-      <path d="M318 155.9l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M334 160.9l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M334 150.9l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-03 · 3</title>
-      <path d="M280 156.7l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M296 161.7l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M296 151.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-28 · 7</title>
-      <path d="M242 150.8l16 5v11.8l-16-5z" fill="#2b596e"/>
-      <path d="M258 155.8l16-5v11.8l-16 5z" fill="#1b3b51"/>
-      <path d="M258 145.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-22 · 3</title>
-      <path d="M204 158.3l16 5v5.1l-16-5z" fill="#2b596e"/>
-      <path d="M220 163.3l16-5v5.1l-16 5z" fill="#1b3b51"/>
-      <path d="M220 153.3l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-22 · 0</title>
-      <path d="M376 166.0l16 5v0.0l-16-5z" fill="#2b596e"/>
-      <path d="M392 171l16-5v0.0l-16 5z" fill="#1b3b51"/>
-      <path d="M392 161l16 5-16 5-16-5z" fill="#1b3043"/></g><g><title>2026-11-16 · 1</title>
-      <path d="M338 165.1l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M354 170.1l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M354 160.1l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-10 · 1</title>
-      <path d="M300 165.9l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M316 170.9l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M316 160.9l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-04 · 1</title>
+      <path d="M238 146.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-10-16 · 2</title>
+      <path d="M184 154.2l16 5v3.4l-16-5z" fill="#2b596e"/>
+      <path d="M200 159.2l16-5v3.4l-16 5z" fill="#1b3b51"/>
+      <path d="M200 149.2l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-22 · 0</title>
+      <path d="M394 159.4l16 5v0.0l-16-5z" fill="#2b596e"/>
+      <path d="M410 164.4l16-5v0.0l-16 5z" fill="#1b3b51"/>
+      <path d="M410 154.4l16 5-16 5-16-5z" fill="#1b3043"/></g><g><title>2026-11-16 · 1</title>
+      <path d="M356 158.5l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M372 163.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M372 153.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-10 · 1</title>
+      <path d="M318 159.3l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M334 164.3l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M334 154.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-04 · 1</title>
+      <path d="M280 160.1l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M296 165.1l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M296 155.1l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-29 · 6</title>
+      <path d="M242 152.4l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M258 157.4l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M258 147.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-10-23 · 8</title>
+      <path d="M204 149.9l16 5v13.5l-16-5z" fill="#2b596e"/>
+      <path d="M220 154.9l16-5v13.5l-16 5z" fill="#1b3b51"/>
+      <path d="M220 144.9l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-23 · 4</title>
+      <path d="M376 159.2l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M392 164.2l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M392 154.2l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-17 · 6</title>
+      <path d="M338 156.6l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M354 161.6l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M354 151.6l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-11 · 5</title>
+      <path d="M300 159.1l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M316 164.1l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M316 154.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-05 · 1</title>
       <path d="M262 166.7l16 5v1.7l-16-5z" fill="#2b596e"/>
       <path d="M278 171.7l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M278 161.7l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-29 · 6</title>
-      <path d="M224 159.0l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M240 164l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M240 154l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-23 · 4</title>
-      <path d="M358 165.8l16 5v6.8l-16-5z" fill="#2b596e"/>
-      <path d="M374 170.8l16-5v6.8l-16 5z" fill="#1b3b51"/>
-      <path d="M374 160.8l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-17 · 6</title>
-      <path d="M320 163.2l16 5v10.2l-16-5z" fill="#2b596e"/>
-      <path d="M336 168.2l16-5v10.2l-16 5z" fill="#1b3b51"/>
-      <path d="M336 158.2l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-11 · 5</title>
-      <path d="M282 165.7l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M298 170.7l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M298 160.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-05 · 1</title>
+      <path d="M278 161.7l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-10-30 · 3</title>
+      <path d="M224 164.1l16 5v5.1l-16-5z" fill="#2b596e"/>
+      <path d="M240 169.1l16-5v5.1l-16 5z" fill="#1b3b51"/>
+      <path d="M240 159.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-24 · 5</title>
+      <path d="M358 164.1l16 5v8.5l-16-5z" fill="#2b596e"/>
+      <path d="M374 169.1l16-5v8.5l-16 5z" fill="#1b3b51"/>
+      <path d="M374 159.1l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-18 · 1</title>
+      <path d="M320 171.7l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M336 176.7l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M336 166.7l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-12 · 1</title>
+      <path d="M282 172.5l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M298 177.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M298 167.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-06 · 1</title>
       <path d="M244 173.3l16 5v1.7l-16-5z" fill="#2b596e"/>
       <path d="M260 178.3l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M260 168.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-24 · 5</title>
-      <path d="M340 170.7l16 5v8.5l-16-5z" fill="#2b596e"/>
-      <path d="M356 175.7l16-5v8.5l-16 5z" fill="#1b3b51"/>
-      <path d="M356 165.7l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-18 · 1</title>
-      <path d="M302 178.3l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M318 183.3l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M318 173.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-12 · 1</title>
-      <path d="M264 179.1l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M280 184.1l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M280 174.1l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-25 · 1</title>
+      <path d="M260 168.3l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-25 · 1</title>
+      <path d="M340 177.5l16 5v1.7l-16-5z" fill="#2b596e"/>
+      <path d="M356 182.5l16-5v1.7l-16 5z" fill="#1b3b51"/>
+      <path d="M356 172.5l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-19 · 9</title>
+      <path d="M302 164.8l16 5v15.2l-16-5z" fill="#2b596e"/>
+      <path d="M318 169.8l16-5v15.2l-16 5z" fill="#1b3b51"/>
+      <path d="M318 159.8l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-13 · 6</title>
+      <path d="M264 170.6l16 5v10.2l-16-5z" fill="#2b596e"/>
+      <path d="M280 175.6l16-5v10.2l-16 5z" fill="#1b3b51"/>
+      <path d="M280 165.6l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-26 · 1</title>
       <path d="M322 184.1l16 5v1.7l-16-5z" fill="#2b596e"/>
       <path d="M338 189.1l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M338 179.1l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-19 · 9</title>
-      <path d="M284 171.4l16 5v15.2l-16-5z" fill="#2b596e"/>
-      <path d="M300 176.4l16-5v15.2l-16 5z" fill="#1b3b51"/>
-      <path d="M300 166.4l16 5-16 5-16-5z" fill="#52bfb4"/></g><g><title>2026-11-26 · 1</title>
-      <path d="M304 190.7l16 5v1.7l-16-5z" fill="#2b596e"/>
-      <path d="M320 195.7l16-5v1.7l-16 5z" fill="#1b3b51"/>
-      <path d="M320 185.7l16 5-16 5-16-5z" fill="#245968"/></g><text x="480" y="86" font-size="27" fill="#eff5ff" font-weight="600">Last 84 days</text><text x="481" y="115" font-size="16" fill="#a5b8d2" >Each tile is one day.</text><text x="481" y="142" font-size="16" fill="#a5b8d2" >Taller columns mark</text><text x="481" y="163" font-size="16" fill="#a5b8d2" >more contributions.</text><text x="26" y="198" font-size="11" fill="#a5b8d2" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">2026-09-04  —  2026-11-26</text>
+      <path d="M338 179.1l16 5-16 5-16-5z" fill="#245968"/></g><g><title>2026-11-20 · 4</title>
+      <path d="M284 179.8l16 5v6.8l-16-5z" fill="#2b596e"/>
+      <path d="M300 184.8l16-5v6.8l-16 5z" fill="#1b3b51"/>
+      <path d="M300 174.8l16 5-16 5-16-5z" fill="#348d94"/></g><g><title>2026-11-27 · 0</title>
+      <path d="M304 192.4l16 5v0.0l-16-5z" fill="#2b596e"/>
+      <path d="M320 197.4l16-5v0.0l-16 5z" fill="#1b3b51"/>
+      <path d="M320 187.4l16 5-16 5-16-5z" fill="#1b3043"/></g><text x="480" y="86" font-size="27" fill="#eff5ff" font-weight="600">Last 84 days</text><text x="481" y="115" font-size="16" fill="#a5b8d2" >Each tile is one day.</text><text x="481" y="142" font-size="16" fill="#a5b8d2" >Taller columns mark</text><text x="481" y="163" font-size="16" fill="#a5b8d2" >more contributions.</text><text x="26" y="198" font-size="11" fill="#a5b8d2" font-family="IBM Plex Mono, Consolas, monospace" letter-spacing="1.5">2026-09-05  —  2026-11-27</text>
 </svg>
